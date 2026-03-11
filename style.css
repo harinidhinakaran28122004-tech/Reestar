@@ -1,0 +1,76 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f2f2f2;
+}
+
+.header{
+background:black;
+color:white;
+text-align:center;
+padding:1px;
+}
+
+.header p{
+color:gray;
+}
+
+.one{
+    color:black;
+}
+
+.two{
+    color: gray;
+}
+
+.foods{
+text-align:center;
+margin-top:15px;
+}
+
+.box{
+display:inline-block;
+width:220px;
+border:2px solid gray;
+margin:5px;
+background:white;
+padding-bottom:5px;
+}
+
+.box img{
+width:220px;
+height:210px;
+}
+
+.box button{
+background:black;
+color:white;
+border:none;
+padding:5px;
+margin-top:3px;
+}
+
+.contact table{
+margin:auto;
+}
+
+.contact{
+background:black;
+color:white;
+text-align:center;
+padding:10px;
+margin-top:5px;
+}
+
+.contact input{
+padding: 3px;
+margin:3px;
+}
+
+.send{
+background:yellow;
+border:none;
+padding:10px;
+width:300px;
+margin-top:10px;
+}
